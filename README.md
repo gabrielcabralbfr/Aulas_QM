@@ -5,5 +5,5 @@
 * Meta charset ``UTF-8``
 * Apontando para um arquivo CSS no mesmo diretório (pasta)
 * Apontando para um arquivo CSS em outro diretório
-* Ordem de leitura dos arquivos
+* Ordem de leitura e execução dos arquivos CSS
 
