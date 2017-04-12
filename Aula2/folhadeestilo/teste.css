@@ -1,0 +1,29 @@
+p {
+    color:red;
+}
+
+/*p:nth-child(2) {
+    background: blue;
+}*/
+
+.paragrafo {
+    background: grey;
+    margin: 5%;
+}
+
+.paragrafo2 {
+    background: yellow;
+    margin: 10%;
+}
+
+#roxo {
+    color: purple;
+}
+
+#nav {
+    background: grey;
+}
+
+.navbar {
+    background: red;
+}
