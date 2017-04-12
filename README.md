@@ -11,7 +11,7 @@ Grupo de estudos na empresa QuestManager, a fim de nivelar e agregar conheciment
 
 ## Aula 2 - CSS e comportamento no HTML - Introdução
 * Principais diferenças entre ``HTML4`` e ``HTML5``
-  ![HTML4 x HTML5](Aula2/Html5.gif)
+ > ![HTML4 x HTML5](Aula2/Html5.gif)
 * ``Classes`` e ``IDs``: o que são, como usar e como "chamar" no ``.css``
 * Ordem de leitura e interpretação de elementos dentro do próprio ``.css``
 * Ordem de leitura e interpretação entre diferentes arquivos ``.css``
